@@ -5,4 +5,4 @@ I primarily built the back end JQuery and parsed AJAX calls
 
 [title] https://nmosch.github.io/Cal.culator/
 
-![alt text] ./img/Cal.culator.png
+![alt text] (./img/Cal-culator.png)
